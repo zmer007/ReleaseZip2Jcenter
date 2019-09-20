@@ -25,5 +25,5 @@ dependencies {
 
     implementation 'com.yumimobi.ads.mediation:admob:3.6.1'
     implementation 'com.yumimobi.ads:mediation:3.6.1'
-    implementation project(path: ':pubnative')
+    implementation project(path: ':gdt')
 }

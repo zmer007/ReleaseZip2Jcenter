@@ -36,9 +36,9 @@ dependencies {
 // ./gradlew [module-name]:generateRelease
 
 ext {
-    PUBLISH_GROUP_ID = 'com.yumimobi.ads.mediation'
-    PUBLISH_ARTIFACT_ID = 'pubnative'
-    PUBLISH_VERSION = '0.1.0'
+    PUBLISH_GROUP_ID = 'com.yumimobi.ads.thirdparty'
+    PUBLISH_ARTIFACT_ID = 'gdt'
+    PUBLISH_VERSION = '4.90.960.0'
 }
 
 apply from: '../release-aar.gradle'

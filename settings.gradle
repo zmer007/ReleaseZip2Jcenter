@@ -1,1 +1,1 @@
-include ':app', ':pubnative'
+include ':app', ':gdt'
